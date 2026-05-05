@@ -1,7 +1,6 @@
 # Portfolio-Inspired Inventory Optimization
 ### MSML 604 - Introduction to Optimization | Spring 2026
-**Author:** Keegan Sanctis | **UID:** 122067684
-**University of Maryland, College Park**
+**Author:** Keegan Sanctis | **UID:** 122067684 | **University of Maryland, College Park**
 
 ---
 
