@@ -1,6 +1,8 @@
 # Portfolio-Inspired Inventory Optimization
 ### MSML 604 - Introduction to Optimization | Spring 2026
-**Author:** Keegan Sanctis | **UID:** 122067684 | **University of Maryland, College Park**
+**Author:** Keegan Sanctis | **UID:** 122067684
+
+**University of Maryland, College Park**
 
 ---
 
@@ -52,20 +54,32 @@ Since the dataset is proprietary, full end-to-end reproduction requires access t
 ## Results Summary
 
 Active SKUs: 3,856
+
 Budget (50% level): 66,507 KWD
+
 Full stocking cost: 133,014 KWD
+
 Optimized total cost: 101,144 KWD
+
 Baseline total cost: 130,686 KWD
+
 Cost reduction: 29,542 KWD
+
 Percentage improvement: 22.61%
+
 
 ---
 
 ## References
 
 Markowitz, H. (1952). Portfolio selection. The Journal of Finance, 7(1), 77–91.
+
 Arrow, K. J., Harris, T., & Marschak, J. (1951). Optimal inventory policy. Econometrica, 19(3), 250–272.
+
 Diamond, S., & Boyd, S. (2016). CVXPY: A Python-embedded modeling language for convex optimization. JMLR, 17(83), 1–5.
+
 Boyd, S., & Vandenberghe, L. (2004). Convex Optimization. Cambridge University Press.
+
 Nahmias, S., & Olsen, T. L. (2015). Production and operations analysis (7th ed.). Waveland Press.
+
 Silver, E. A., Pyke, D. F., & Thomas, D. J. (2017). Inventory and production management in supply chains (4th ed.). CRC Press.
